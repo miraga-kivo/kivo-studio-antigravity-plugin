@@ -1,0 +1,11 @@
+{
+  "name": "kivo-city-cinematics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.12" },
+  "scripts": { "test": "node --test test/*.test.mjs", "doctor": "node scripts/doctor.mjs" },
+  "dependencies": { "sharp": "0.35.5" }
+}
+

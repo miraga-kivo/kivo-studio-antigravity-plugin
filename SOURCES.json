@@ -1,0 +1,24 @@
+{
+  "adaptedOn": "2026-11-26",
+  "sources": [
+    {
+      "repository": "https://github.com/miraga-kivo/kivo-city-cinematics-skill",
+      "commit": "0a873c202473706536f42e09b535605994094a64"
+    },
+    {
+      "repository": "https://github.com/miraga-kivo/kivo-white-model-video-skill",
+      "commit": "df174cfefa497fdda25718a8b7fbe892a33752cf"
+    },
+    {
+      "repository": "https://github.com/miraga-kivo/kivo-studio-production-skill",
+      "commit": "b63196bb574db4d41a7beffbae0cdbc33e10ba54"
+    }
+  ],
+  "changes": [
+    "Bundle one OAuth MCP connection with three Antigravity skills.",
+    "Replace old client-specific setup and wrappers with installed plugin discovery.",
+    "Keep rendering dependencies and runtime outputs in writable project copies.",
+    "Refresh production guidance to discover live limits instead of fixed model snapshots."
+  ],
+  "licensing": "City and white-model subtree MIT notices retained. No blanket license granted for the combined bundle; original production repository has no selected license."
+}

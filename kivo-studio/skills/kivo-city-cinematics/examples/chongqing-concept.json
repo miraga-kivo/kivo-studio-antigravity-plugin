@@ -1,0 +1,14 @@
+{
+  "city": "雾都",
+  "locations": ["江边码头", "山城巷", "高架桥", "观景台"],
+  "character": { "name": "林岚", "appearance": "原创成年女性游戏角色，短黑发、深蓝色机车夹克、米灰色长裤、黑色短靴、橙色小挎包，不模仿真实人物" },
+  "geography": "river",
+  "look": "受重庆山地城市风貌启发的原创开放世界游戏电影感，蓝调时刻、雾气、雨后地面、层叠的建筑和暖色灯光；地理关系为虚构概念，不是精确重庆地图",
+  "template": "city-trailer",
+  "ratio": "9:16",
+  "language": "zh",
+  "budgetCredits": 900,
+  "draftCandidates": 2,
+  "finalResolution": "1080p"
+}
+

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "kivo-studio",
+  "displayName": "Kivo Studio",
+  "version": "1.0.0",
+  "description": "Create city cinematics, white-model camera previs, and films with Kivo Studio. Plan shots, compare Drafts, and deliver selected finals.",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "Kivo Studio",
+    "url": "https://kivst.com"
+  },
+  "homepage": "https://kivst.com/en/mcp",
+  "repository": "https://github.com/miraga-kivo/kivo-studio-antigravity-plugin",
+  "keywords": [
+    "video",
+    "creative",
+    "media",
+    "storyboard",
+    "previs",
+    "film-production"
+  ],
+  "suggestedPrompts": [
+    "Create an original city character-introduction trailer. Start with a concept map and shot plan, and show a credit quote before generating.",
+    "Build a white-model previs of a detective walking down an alley, stopping under a streetlight as the camera orbits. Render a local MP4 first.",
+    "Plan a short film with consistent characters, compare video Drafts, and prepare selected finals. Start with the shot list and budget."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "city": "Neon Harbor",
+  "locations": ["Old Quay", "Lantern Market", "Skyline Bridge", "Lookout Hill"],
+  "character": { "name": "Mira", "appearance": "Original adult woman game character, short dark bob haircut, deep-teal bomber jacket with one orange sleeve patch, light-gray cargo trousers, black ankle boots, small burnt-orange crossbody bag; no celebrity likeness" },
+  "geography": "coastal",
+  "look": "Original high-end open-world video-game cinematic, believable rendered city architecture, wet paving, teal water, warm amber storefront lights at blue hour; grounded urban scale, not a tropical beach or a fantasy castle",
+  "template": "character-intro",
+  "ratio": "16:9",
+  "language": "en",
+  "budgetCredits": 500,
+  "draftCandidates": 2,
+  "finalResolution": "1080p"
+}
+

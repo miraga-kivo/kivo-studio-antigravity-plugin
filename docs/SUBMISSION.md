@@ -23,7 +23,7 @@
 - Verify requested read/write/generation scopes, refresh when `offline_access` is granted, and revoked-grant behavior.
 - Perform one explicitly budgeted reference upload → quote → Draft → selected native final → download workflow. Do not represent static validation as this test.
 - Record a real client demonstration with private account details and signed URLs redacted.
-- Confirm public bundle license choice if a blanket open-source license is desired; do not assume the original production repository's license.
+- Public bundle license: MIT License, copyright (c) 2026 Mira AI Limited. See the repository root [LICENSE](../LICENSE) and [kivo-studio/LICENSE](../kivo-studio/LICENSE). The license applies to plugin source and documentation in this repository. Kivo hosted services, accounts, and generation services remain subject to their Terms of Service. The upstream production skill repository originally had no selected license; this grant covers the corresponding content in this repository that Mira AI Limited owns.
 - Submit via the [partner intake form](https://forms.gle/2EX5RFYPoJe1UgxR9) after acceptance evidence is ready. No form has been submitted by this packaging task.
 
 ## Three proposed user journeys

@@ -20,5 +20,5 @@
     "Keep rendering dependencies and runtime outputs in writable project copies.",
     "Refresh production guidance to discover live limits instead of fixed model snapshots."
   ],
-  "licensing": "City and white-model subtree MIT notices retained. No blanket license granted for the combined bundle; original production repository has no selected license."
+  "licensing": "City and white-model subtree MIT notices retained. Plugin source and documentation in this repository owned by Mira AI Limited are released under the MIT License (Copyright (c) 2026 Mira AI Limited). The upstream production skill repository originally had no selected license; that historical fact is unchanged. This grant covers the corresponding content in this repository that Mira AI Limited owns."
 }

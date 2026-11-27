@@ -23,7 +23,13 @@ After installation, authenticate Kivo from Customizations → Installed → MCP 
 | `/kivo-white-model-video` | Local Three.js/HyperFrames camera and blocking previs, then optional Kivo reference upload |
 | `/kivo-studio-production` | Film planning, shot consistency, candidate selection, production upgrades, audiovisual QC and delivery |
 
-Source repositories and pinned commits are recorded in [SOURCES.json](SOURCES.json). MIT notices for the city and white-model skill files are preserved in those subtrees. The original production repository has no selected license; no blanket MIT or Apache license is asserted for the combined bundle.
+Source repositories and pinned commits are recorded in [SOURCES.json](SOURCES.json). MIT notices and original-author copyright statements for the city and white-model skill files are preserved in those subtrees. The upstream production skill repository originally had no selected license; that historical fact is unchanged. This repository's grant covers the corresponding content here that Mira AI Limited owns.
+
+## License
+
+This plugin is released under the [MIT License](LICENSE). The license applies to the plugin source code and documentation in this repository.
+
+Kivo hosted services, accounts, and generation services remain subject to their [Terms of Service](https://kivst.com/terms).
 
 ## 中文
 

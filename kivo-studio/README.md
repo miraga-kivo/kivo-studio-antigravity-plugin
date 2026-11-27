@@ -60,6 +60,10 @@ White-model local exports are reference animation, not guaranteed model motion t
 
 [Kivo MCP guide](https://kivst.com/en/mcp) · [Privacy](https://kivst.com/privacy) · [Terms](https://kivst.com/terms) · [Support](https://kivst.com/contact)
 
+## License
+
+This plugin is released under the [MIT License](LICENSE). The license applies to the plugin source code and documentation in this repository. Kivo hosted services, accounts, and generation services remain subject to their [Terms of Service](https://kivst.com/terms).
+
 ## 中文说明
 
 安装插件后，三个 Skill 和 Kivo MCP 连接一起生效。首次使用云端功能时，在 Antigravity 的 Customizations → Installed → MCP Servers 完成 Kivo 登录授权；无需再手动添加 MCP 地址或填写 API Key。
